@@ -48,6 +48,7 @@ Salesforce Commerce, B2B/B2C, and digital brand delivery across global clients.
 | [MAKE UP FOR EVER AE](https://www.makeupforever.ae/) | Salesforce Commerce Cloud |
 | [L'Occitane AE](https://ae.loccitane.com/) | Salesforce Commerce Cloud |
 | [YSL Beauty AE](https://www.yslbeauty.ae/) | Salesforce Commerce Cloud |
+| [The Deal Outlet AE](https://www.thedealoutlet.com/ae) | Salesforce Commerce Cloud |
 
 ---
 
